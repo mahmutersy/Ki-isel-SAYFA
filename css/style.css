@@ -1,0 +1,50 @@
+.clipped{
+    clip-path: polygon(50% 0%, 9% 36%, 100% 100%);
+
+}
+
+.clipped2 {
+    clip-path: polygon(0 0, 88% 18%, 100% 53%, 29% 100%);
+
+}
+
+.h-color{
+    color: #202844;
+}
+
+.anime{
+    color: white;
+    -webkit-transition:all 500ms ease;
+    -moz-transition:all 500ms ease;
+    -o-transition:all 500ms ease;
+    -ms-transition:all 500ms ease;
+    transition:all 500ms ease;
+}
+
+
+.anime:hover{
+    color: #D12A2E;
+}
+
+
+
+.bgcolor{
+    background-color: #F0F1F3;
+
+}
+
+.navbar.sticky{
+    color: white !important;
+    background-color: #F93154;
+    transition: 0.8s;
+    -webkit-transition: 0.8s;
+    -o-transition: 0.8s;
+    -moz-transition: 0.8s;
+}
+
+.navbar{
+    transition: 0.8s;
+    -webkit-transition: 0.8s;
+    -o-transition: 0.8s;
+    -moz-transition: 0.8s;
+}
